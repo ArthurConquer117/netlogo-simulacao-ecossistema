@@ -22,7 +22,6 @@ Inclui movimentação aleatória, eventos probabilísticos e uma interface inter
 - Controlos de simulação: **Setup**, **Go_Once**, **Go_N**, **Go contínuo**
 - Monitores de estado em tempo real
 - Visualização gráfica da evolução do sistema
-- Relatório técnico e vídeo de demonstração (incluídos no repositório)
 
 ## 🚀 Como executar
 
